@@ -134,8 +134,34 @@
   height: 150px;
   text-align: center;
   padding-top: 20px;
-  background-color: #7a7576;
+  background-color: #e0dadb;
   display: flex;
   justify-content: space-around;
    margin-left: 25%;
+}
+.section-hot{
+  width: 100%;
+  height: 300px;
+  margin-top: 70px;
+  background-color: #d1c0c3;
+  background-image: url(../img/pngwing\ 8.png);
+  background-repeat: no-repeat;
+  background-position: 70% 25%;
+  background-size: contain;
+}
+.section-text{
+  max-width: 550px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding: 30px;
+  text-align: center;
+  margin-left: 25%;
+
+}
+.section-text h1{
+  margin-top: 10%;
+  margin-bottom: 20px;
+}
+
+.logo{
+  color: red;
 }
